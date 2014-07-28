@@ -35,8 +35,7 @@ define( function () {
   };
 
   return {
-    when: when,
-    then: then
+    when: when
   };
 });
 
